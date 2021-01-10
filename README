@@ -1,0 +1,21 @@
+Programer: Tan Dao
+ASU ID: 1214652569
+CSE 365
+Professor: Adam Doupe
+02/10/2020
+
+Only users with an authorized key can enter the house. To enter the 
+house, the user must first put their key in the lock,
+ then turn the lock, then enter the house, only if the key is valid.
+A house can be rekeyed with new keys only by the owner,
+ and only if the owner is inside the house.
+
+Firefighters can enter with the secret key (literal string) FIREFIGHTER_SECRET_KEY.
+
+The lock will always be accessed in the following way: insert key, 
+turn the lock, then enter the house 
+(it is not guaranteed that it is the same user, however). 
+Other commands can be issued in between insert, turn, and enter, 
+however they do not affect the lock state.
+
+Testing if a key is valid is done when the lock is turned.

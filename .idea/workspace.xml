@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b65703d5-fd02-424c-b7eb-e80d5629f82d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XPpgzFvK3MUIIaTFP1qsx7Da92" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.secure_house (1)">
+    <configuration name="secure_house (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="secure_house" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secure_house.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="secure_house" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="secure_house" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/secure_house" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.secure_house (1)" />
+        <item itemvalue="Python.secure_house" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b65703d5-fd02-424c-b7eb-e80d5629f82d" name="Default Changelist" comment="" />
+      <created>1580957698596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580957698596</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="104" key="#Inspections" timestamp="1581022863243">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="0" y="104" key="#Inspections/0.0.1368.882@0.0.1368.882" timestamp="1581022863243" />
+    <state x="110" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580957758914">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="110" y="305" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.882@0.0.1368.882" timestamp="1580957758914" />
+    <state x="807" y="200" key="FileChooserDialogImpl" timestamp="1580958237683">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="807" y="200" key="FileChooserDialogImpl/0.0.1368.882@0.0.1368.882" timestamp="1580958237683" />
+    <state width="650" height="66" key="GridCell.Tab.0.bottom" timestamp="1581151329155">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="650" height="66" key="GridCell.Tab.0.bottom/0.0.1368.882/-1920.221.1920.1050@0.0.1368.882" timestamp="1581151329155" />
+    <state width="661" height="284" key="GridCell.Tab.0.bottom/0.0.1368.882@0.0.1368.882" timestamp="1581033981025" />
+    <state width="650" height="66" key="GridCell.Tab.0.center" timestamp="1581151329155">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="650" height="66" key="GridCell.Tab.0.center/0.0.1368.882/-1920.221.1920.1050@0.0.1368.882" timestamp="1581151329155" />
+    <state width="661" height="284" key="GridCell.Tab.0.center/0.0.1368.882@0.0.1368.882" timestamp="1581033981025" />
+    <state width="650" height="66" key="GridCell.Tab.0.left" timestamp="1581151329155">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="650" height="66" key="GridCell.Tab.0.left/0.0.1368.882/-1920.221.1920.1050@0.0.1368.882" timestamp="1581151329155" />
+    <state width="661" height="284" key="GridCell.Tab.0.left/0.0.1368.882@0.0.1368.882" timestamp="1581033981025" />
+    <state width="650" height="66" key="GridCell.Tab.0.right" timestamp="1581151329155">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="650" height="66" key="GridCell.Tab.0.right/0.0.1368.882/-1920.221.1920.1050@0.0.1368.882" timestamp="1581151329155" />
+    <state width="661" height="284" key="GridCell.Tab.0.right/0.0.1368.882@0.0.1368.882" timestamp="1581033981025" />
+    <state width="661" height="284" key="GridCell.Tab.1.bottom" timestamp="1581033981026">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="661" height="284" key="GridCell.Tab.1.bottom/0.0.1368.882@0.0.1368.882" timestamp="1581033981026" />
+    <state width="661" height="284" key="GridCell.Tab.1.center" timestamp="1581033981026">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="661" height="284" key="GridCell.Tab.1.center/0.0.1368.882@0.0.1368.882" timestamp="1581033981026" />
+    <state width="661" height="284" key="GridCell.Tab.1.left" timestamp="1581033981026">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="661" height="284" key="GridCell.Tab.1.left/0.0.1368.882@0.0.1368.882" timestamp="1581033981026" />
+    <state width="661" height="284" key="GridCell.Tab.1.right" timestamp="1581033981026">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state width="661" height="284" key="GridCell.Tab.1.right/0.0.1368.882@0.0.1368.882" timestamp="1581033981026" />
+    <state x="380" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1581378020972">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="380" y="267" key="com.intellij.ide.util.TipDialog/0.0.1368.882/-1920.221.1920.1050@0.0.1368.882" timestamp="1581162311437" />
+    <state x="380" y="267" key="com.intellij.ide.util.TipDialog/0.0.1368.882@0.0.1368.882" timestamp="1581378020972" />
+    <state x="0" y="0" width="632" height="770" key="dock-window-1" timestamp="1581146606986">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="0" y="0" width="632" height="770" key="dock-window-1/0.0.1368.882/-1920.221.1920.1050@0.0.1368.882" timestamp="1581146606986" />
+    <state x="0" y="0" width="632" height="770" key="dock-window-2" timestamp="1581147042036">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="0" y="0" width="632" height="770" key="dock-window-2/0.0.1368.882/-1920.221.1920.1050@0.0.1368.882" timestamp="1581147042036" />
+  </component>
+</project>
